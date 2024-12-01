@@ -1,0 +1,1 @@
+his project is an Inventory Dashboard built in Power BI, designed to help businesses analyze and monitor inventory data, sales trends, and revenue performance. It includes dynamic charts and visuals to provide actionable insights, enabling better decision-making.
